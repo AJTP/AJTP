@@ -1,5 +1,5 @@
 ### Hi, im Antonio 👋
-
+![Codewars Badges](https://www.codewars.com/users/AJTP/badges/large)
 
 ### About me
 
