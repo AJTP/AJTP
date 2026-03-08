@@ -2,6 +2,9 @@
 Fullstack Developer constantly learning 🚀  
 I enjoy solving problems, building applications, and improving every day.
 
+---
+### 🌐 Socials
+- LinkedIn(https://www.linkedin.com/in/antoniotp/)
 [![Codewars Badges](https://www.codewars.com/users/AJTP/badges/large)](https://www.codewars.com/users/AJTP)
 
 ---
