@@ -4,7 +4,7 @@ I enjoy solving problems, building applications, and improving every day.
 
 ---
 ### 🌐 Socials
-- LinkedIn(https://www.linkedin.com/in/antoniotp/)
+- [LinkedIn](https://www.linkedin.com/in/antoniotp/)
 ---
 
 ### 👨‍💻 About me
