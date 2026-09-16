@@ -4,6 +4,7 @@ I enjoy solving problems, building applications, and improving every day.
 
 ---
 ### Socials
+- [Portfolio](https://portfolio.ajtp.workers.dev/)
 - [LinkedIn](https://www.linkedin.com/in/antoniotp/)
 ---
 
