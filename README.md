@@ -1,5 +1,5 @@
 ### Hi, I'm Antonio 👋  
-Fullstack Developer constantly learning 🚀  
+Fullstack Developer constantly learning  
 I enjoy solving problems, building applications, and improving every day.
 
 ---
@@ -35,8 +35,4 @@ I enjoy solving problems, building applications, and improving every day.
 **Learning:**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat&logo=typescript)
-
----
-### Codewars Stats
-[![Codewars Badges](https://www.codewars.com/users/AJTP/badges/large)](https://www.codewars.com/users/AJTP)
-
+![AI](https://img.shields.io/badge/AI-Artificial%20Intelligence-brightgreen)
