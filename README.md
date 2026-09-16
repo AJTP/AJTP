@@ -35,4 +35,4 @@ I enjoy solving problems, building applications, and improving every day.
 **Learning:**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat&logo=typescript)
-![AI](https://img.shields.io/badge/AI-Artificial%20Intelligence-brightgreen)
+![AI](https://img.shields.io/badge/AI-Artificial%20Intelligence)
