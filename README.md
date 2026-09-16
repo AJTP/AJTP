@@ -11,7 +11,7 @@ I enjoy solving problems, building applications, and improving every day.
 - I like learning by solving real-world problems  
 - I practice algorithms and logic 
 - I develop web and mobile apps with React / React Native  
-- Goal: master TypeScript and Fullstack best practices  
+- Goal: master TypeScript and Artificial Intelligence implementations  
 
 ---
 
